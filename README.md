@@ -34,9 +34,9 @@ pip install -r requirements.txt
 
 ## Available scripts
 
-For figures 1 to 3, [notebook](`fig123.ipynb`) that generate the figures is provided.
+For figures 1 to 3, [notebook](`Fig123.ipynb`) that generate the figures is provided.
 
-For tables 1 & 2, [notebook](`tab12.ipynb`) that generate the performances relative to the partial-W and partial-GW results is provided. The results regarding competitors have been obtained using the following github repository `https://github.com/MasaKat0/PUlearning` from the paper 
+For tables 1 & 2, [notebook](`Tab12.ipynb`) that generate the performances relative to the partial-W and partial-GW results is provided. The results regarding competitors have been obtained using the following github repository `https://github.com/MasaKat0/PUlearning` from the paper 
 
 ```
 Masahiro Kato, Takeshi Teshima, Junya Honda 
@@ -44,7 +44,7 @@ Learning from Positive and Unlabeled Data with a Selection Bias.
 In ICLR, 2019.
 ```
 
-To run notebook [tab12.ipynb](`tab12.ipynb`), first make the `data` folder with the following datasets:
+To run notebook [tab12.ipynb](`Tab12.ipynb`), first make the `data` folder with the following datasets:
 
 - `mushrooms`, `shuttle.scale`, `shuttle.scale.t`, `usps`, `usps.t`, `connect-4`  from `https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/`
 - `page-blocks.data`, `spambase.data` from `https://archive.ics.uci.edu/ml/index.php`
