@@ -1,6 +1,6 @@
 # Partial Gromov-Wasserstein with applications on Positive-Unlabeled Learning 
 
-This code is an attempt to help reproduce results from the paper "Partial Gromov-Wasserstein with applications on Positive-Unlabeled Learning".
+This code is an attempt to help reproduce results from the paper "Partial Gromov-Wasserstein with applications on Positive-Unlabeled Learning" https://arxiv.org/abs/2002.08276.
 
 ## Pre-requisites
 
